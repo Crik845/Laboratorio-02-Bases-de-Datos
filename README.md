@@ -1,6 +1,6 @@
 # Laboratorio-02-Bases-de-Datos
 
-### Enlace al respositorio con los diagramas de entidad individuales [Link]()
+### Enlace al respositorio "Wiki" con todos los diagrams de entidad [Link](https://github.com/Crik845/Laboratorio-02-Bases-de-Datos/wiki)
 
 # Diagrama de Chen completo
 
