@@ -6,4 +6,4 @@ En la sección index podrá encontrar todos los demás diagramas.
 
 # Diagrama de Chen completo
 
-![](https://github.com/Crik845/Laboratorio-02-Bases-de-Datos/blob/main/Diagrama%20de%20chen%20completo%20lab%202%20.png?raw=true)
+![](https://github.com/Crik845/Laboratorio-02-Bases-de-Datos/blob/main/DC%20completo%20lab%202.png?raw=true)
